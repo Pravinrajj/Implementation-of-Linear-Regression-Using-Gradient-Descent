@@ -78,9 +78,22 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 ```
 
 ## Output:
+## Profit Prediction
 ![image](https://user-images.githubusercontent.com/117917674/229184416-0d4fdbb2-ab96-4e42-8159-432674ccbdd3.png)
+## Cost function
+![image](https://user-images.githubusercontent.com/117917674/229984055-5d111f4d-6b8a-4c39-b044-515da4bb6a92.png)
+
+## Gradient Descent
+![image](https://user-images.githubusercontent.com/117917674/229984103-1acc5b9c-3776-44a4-af10-5e82b6398593.png)
+
+## Cost function and Gradient descent
 ![image](https://user-images.githubusercontent.com/117917674/229184436-60602c8e-8be7-4046-93dc-e6810ebef421.png)
+## GRAPH WITH BEST FIT LINE (PROFIT PREDICTION)
 ![image](https://user-images.githubusercontent.com/117917674/229184450-c17a2baf-f715-4e57-8324-d58a74b3672e.png)
+## PROFIT PREDICTION FOR A POPULATION OF 35,000
+![image](https://user-images.githubusercontent.com/117917674/229984420-474fe98f-313d-48e3-84c6-7a30f7f3a5de.png)
+## PROFIT PREDICTION FOR A POPULATION OF 70,000
+![image](https://user-images.githubusercontent.com/117917674/229984460-4ac6e988-91b9-40f3-b8ce-f3cdf3ac3ff3.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
